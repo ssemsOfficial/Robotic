@@ -10,4 +10,5 @@ this robot is designed to follow the black line, in this version i've used funct
 
 # ROBOT SIMULATION
 ![Design1](https://github.com/ssemsOfficial/Robotic/assets/84194047/bbbff6e3-eb22-4c34-939c-b820144d4084)
-![lineFollowerRobotV1-ezgif com-video-to-gif-converter](https://github.com/ssemsOfficial/Robotic/assets/84194047/5a62b649-f7e3-4626-9ef4-e1699cb72ff4)
+
+![lineFollowerRobotV1-ezgif com-video-to-gif-converter (1)](https://github.com/ssemsOfficial/Robotic/assets/84194047/f38ebbbc-a803-46b7-a25a-1a490bb5edc7)
