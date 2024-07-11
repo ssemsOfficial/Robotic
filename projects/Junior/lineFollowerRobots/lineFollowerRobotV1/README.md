@@ -1,6 +1,8 @@
-#LINE FOLLOWER ROBOT V1 
 
-#DESCRIPTION :
+# LINE FOLLOWER ROBOT V1 
+
+
+# DESCRIPTION :
 this robot is designed to follow the black line, in this version i've used functionnal programming style 
 
 # HARDWARE DESIGN OF THE ROBOT 
